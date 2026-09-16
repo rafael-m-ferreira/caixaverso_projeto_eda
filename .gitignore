@@ -18,11 +18,11 @@ Thumbs.db
 .ipynb_checkpoints/
 
 # Dados brutos e processados (se não forem públicos)
-#data/raw/*
+data/raw/*
 #data/processed/*
 
 # Arquivos grandes de dados (mantidos fora do GitHub)
-#*.csv
+*.csv
 *.tsv
 *.parquet
 *.xlsx
