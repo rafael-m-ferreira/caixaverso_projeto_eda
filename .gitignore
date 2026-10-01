@@ -30,7 +30,7 @@ data/raw/*
 # Relatórios e saídas
 reports/*.html
 reports/*.pdf
-reports/*.png
+#reports/*.png
 reports/*.jpg
 
 # Configurações locais de IDEs
